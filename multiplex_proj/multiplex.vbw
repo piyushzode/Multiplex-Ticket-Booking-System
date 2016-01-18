@@ -1,0 +1,14 @@
+login = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+MDIForm1 = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmNewMovie = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmBookDate = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmDailyDt = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmcurrentbooking = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modVariables = 0, 0, 0, 0, C
+frmadvbooking = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmSplash = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+DataEnvironment1 = 44, 58, 1018, 588, C, -35, 40, 1142, 865, C
+DataReport2 = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+DataReport3 = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+DataReport4 = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmrate = 0, 0, 0, 0, C, 0, 0, 0, 0, C
